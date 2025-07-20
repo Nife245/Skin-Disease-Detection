@@ -1,3 +1,4 @@
+uvicorn
 fastapi==0.116.1
 setuptools>=42
 wheel

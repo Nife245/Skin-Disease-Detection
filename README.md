@@ -6,7 +6,7 @@ This is a web application that allows users to upload an image of a skin conditi
 
 - Upload skin condition images directly in the browser
 - Get predictions using a pre-trained `MobileNetV2` model
-- Simple and responsive UI (no cropping required)
+- Simple and responsive UI
 - Built with **FastAPI** and **HTML/CSS**
 - Deployed on [Render](https://render.com)
 
@@ -43,8 +43,4 @@ This is a web application that allows users to upload an image of a skin conditi
 - **Frontend**: HTML + CSS + JavaScript
 - **Model**: TensorFlow / Keras `.h5` model
 - **Deployment**: Render
-
----
-
-## 📂 Folder Structure
 

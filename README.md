@@ -21,11 +21,11 @@ This is a web application that allows users to upload an image of a skin conditi
 ## 🖼️ How to Use
 
 1. Go to the deployed URL (e.g., `https://skin-disease-detection-1-afzb.onrender.com/`)
-   ![Homepage](static/Screenshot from 2025-07-21 09-34-59.png)
+   ![Homepage](static/landing_page.png)
 2. Click the "Choose File" button to upload an image
 3. Click "Upload"
 4. View the image and the predicted skin disease class below
-   ![Homepage](static/Screenshot from 2025-07-21 09-35-55.png)
+   ![Homepage](static/prediction.png)
 
 ---
 
